@@ -1,0 +1,11 @@
+magisk: https://github.com/topjohnwu/Magisk/releases/latest
+uefi and drivers: https://github.com/remtrik-stuff/MiPad5-Windows-Releases/releases
+woa helper: https://github.com/n00b69/woa-helper/releases/tag/APK
+recovery: https://github.com/ArKT-7/twrp_device_xiaomi_nabu/releases/tag/mod-win
+camera drivers: https://github.com/deskcj/xiaomi-pad5-windows11-camera
+autoflasher: https://github.com/Misha803/WOA-Tools/releases/tag/boot.img-Auto-Flasher
+hypersploit download: https://github.com/TheAirBlow/HyperSploit/releases/latest/download/HyperSploit-Windows.exe
+mi flash unlock download: https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip
+mi flash tool download: https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/download/Files/MiFlashPatched.zip
+firehose elf download: https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5/releases/download/Files/prog_ufs_firehose_sm7150_ddr.elf
+fastboot os: https://hyperos.fans/en/devices/nabu
